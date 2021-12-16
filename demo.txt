@@ -29,7 +29,7 @@
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <photoshop:LayerName>Month &lt;AST&gt;</photoshop:LayerName>
-                  <photoshop:LayerText>september</photoshop:LayerText>
+                  <photoshop:LayerText>September</photoshop:LayerText>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <photoshop:LayerName>Day of the week&lt;AST&gt;</photoshop:LayerName>
